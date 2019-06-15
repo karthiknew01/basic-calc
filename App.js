@@ -160,11 +160,11 @@ const styles = StyleSheet.create({
     backgroundColor: '#222'
   },
   inputTextStyle: {
-    fontSize: 42,  
+    fontSize: 48,  
     color: '#fff'
   },
   resultTextStyle: {
-    fontSize: 24,
+    fontSize: 32,
     color: '#888' 
   },
   numberRows: {
